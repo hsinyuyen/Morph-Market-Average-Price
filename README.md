@@ -1,5 +1,6 @@
 # Morph-Market-Average-Price
-*this script doean't work for the current Morph Market website \n
+*this script doean't work for the current Morph Market website 
+
 This script calculates the average price of a particular morph on morph market
 # How to use this scrpit
 1. enter the morph you'd like to search in the morphs list and the morph you'd like to exclude in the negmorphs list
